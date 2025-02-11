@@ -1227,13 +1227,6 @@
       }
     },
     {
-      "id": "f-bolt~washington~dc~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.bolt.eu/gbfs/3/23/gbfs"
-      }
-    },
-    {
       "id": "f-bolt~władysławowo~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -1546,6 +1539,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://backend.citiz.fr/public/provider/2/gbfs/v3.0/gbfs.json"
+      }
+    },
+    {
+      "id": "f-citiz~développement~france~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://backend.citiz.fr/public/provider/12/gbfs/3.0/gbfs.json"
       }
     },
     {
@@ -2267,6 +2267,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://stables.donkey.bike/api/public/gbfs/2/donkey_valenciennes/gbfs.json"
+      }
+    },
+    {
+      "id": "f-donkey~republic~westhoek~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://stables.donkey.bike/api/public/gbfs/2/donkey_westhoek/gbfs.json"
       }
     },
     {
@@ -4689,6 +4696,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://kona.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+      }
+    },
+    {
+      "id": "f-hopp~washington~dc~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://mds.bolt.eu/gbfs/3/23/gbfs"
       }
     },
     {
@@ -7489,6 +7503,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://santana.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+      }
+    },
+    {
+      "id": "f-veo~washington~dc~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://cluster-prod.veoride.com/api/shares/name/DC_City/gbfs"
       }
     },
     {
