@@ -5,7 +5,7 @@
       "id": "f-2em~car~sharing~switzerland~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/zem_ch/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.prod.sharedmobility.ch/v2/gbfs/2em_cars/gbfs"
       }
     },
     {
@@ -51,6 +51,13 @@
       }
     },
     {
+      "id": "f-aqta~auray~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.partners.fifteen.eu/gbfs/auray-quiberon/gbfs.json"
+      }
+    },
+    {
       "id": "f-arizona~tempe~az~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -69,6 +76,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_ia/gbfs.json"
+      }
+    },
+    {
+      "id": "f-auxr_m~le~vélo~auxerre~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.partners.fifteen.eu/gbfs/2.2/auxerre/en/gbfs.json"
       }
     },
     {
@@ -618,6 +632,13 @@
       }
     },
     {
+      "id": "f-bird~grenchen~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://mds.bird.co/gbfs/v2/public/grenchen/gbfs.json"
+      }
+    },
+    {
       "id": "f-bird~herouvillesaintclair~herouville~saint~clair~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -936,7 +957,7 @@
       "id": "f-bolt~basel~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/bolt_basel/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/bolt_basel/gbfs"
       }
     },
     {
@@ -1083,7 +1104,7 @@
       "id": "f-bolt~karlsruhe~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/bolt_karlsruhe/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/bolt_karlsruhe/gbfs"
       }
     },
     {
@@ -1202,14 +1223,14 @@
       "id": "f-bolt~reutlingen~tübingen~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/bolt_reutlingen_tuebingen/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/bolt_reutlingen_tuebingen/gbfs"
       }
     },
     {
       "id": "f-bolt~stuttgart~de~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/bolt_stuttgart/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/bolt_stuttgart/gbfs"
       }
     },
     {
@@ -1224,13 +1245,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://mds.bolt.eu/gbfs/3/15/gbfs"
-      }
-    },
-    {
-      "id": "f-bolt~washington~dc~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.bolt.eu/gbfs/3/23/gbfs"
       }
     },
     {
@@ -1251,7 +1265,7 @@
       "id": "f-bolt~zurich~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/bolt_zurich/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/bolt_zurich/gbfs"
       }
     },
     {
@@ -1266,6 +1280,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.bcycle.com/bcycle_boulder/gbfs.json"
+      }
+    },
+    {
+      "id": "f-bre~bike~bremen~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_bq/gbfs.json"
       }
     },
     {
@@ -1307,7 +1328,7 @@
       "id": "f-call~a~bike~germany~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/callabike/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/callabike/gbfs"
       }
     },
     {
@@ -1339,24 +1360,24 @@
       }
     },
     {
+      "id": "f-carsharing~renningen~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/oekostadt_renningen/gbfs"
+      }
+    },
+    {
       "id": "f-carvelo~ecargo~bike~sharing~switzerland~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/carvelo2go_ch/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/carvelo2go_ch/gbfs"
       }
     },
     {
-      "id": "f-castletroy~bikes~(ireland)~castleroy~gbfs",
+      "id": "f-car~ship~constance~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_lm/gbfs.json"
-      }
-    },
-    {
-      "id": "f-charlotte~b~cycle~nc~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.bcycle.com/bcycle_charlotte/gbfs.json"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/car_ship/gbfs"
       }
     },
     {
@@ -1549,6 +1570,13 @@
       }
     },
     {
+      "id": "f-citiz~développement~france~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://backend.citiz.fr/public/provider/12/gbfs/3.0/gbfs.json"
+      }
+    },
+    {
       "id": "f-citiz~gironde~bordeaux~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -1661,13 +1689,6 @@
       }
     },
     {
-      "id": "f-cristolib~créteil~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://transport.data.gouv.fr/gbfs/creteil/gbfs.json"
-      }
-    },
-    {
       "id": "f-cycl'am~ardenne~métropole~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -1741,7 +1762,7 @@
       "id": "f-deer~germany~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/deer/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/deer/gbfs"
       }
     },
     {
@@ -1763,6 +1784,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.bcycle.com/bcycle_desmoines/gbfs.json"
+      }
+    },
+    {
+      "id": "f-die~grüne~flotte~freiburg~im~breisgau~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/gruene-flotte_freiburg/gbfs"
       }
     },
     {
@@ -2270,6 +2298,13 @@
       }
     },
     {
+      "id": "f-donkey~republic~westhoek~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://stables.donkey.bike/api/public/gbfs/2/donkey_westhoek/gbfs.json"
+      }
+    },
+    {
       "id": "f-donkey~republic~whichford~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -2326,13 +2361,6 @@
       }
     },
     {
-      "id": "f-dott~alghero~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/alghero/gbfs.json"
-      }
-    },
-    {
       "id": "f-dott~arezzo~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -2340,10 +2368,17 @@
       }
     },
     {
-      "id": "f-dott~arzachena~gbfs",
+      "id": "f-dott~asker~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/arzachena/gbfs.json"
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/asker/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~athens~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/athens/gbfs.json"
       }
     },
     {
@@ -2358,6 +2393,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/banska-bystrica/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~bardejov~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/bardejov/gbfs.json"
       }
     },
     {
@@ -2428,6 +2470,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/bochum/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~bodø~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/bodø/gbfs.json"
       }
     },
     {
@@ -2655,6 +2704,13 @@
       }
     },
     {
+      "id": "f-dott~drammen~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/drammen/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~dubai~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -2676,6 +2732,13 @@
       }
     },
     {
+      "id": "f-dott~dunaujvaros~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/dunaujvaros/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~dusseldorf~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -2687,13 +2750,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/dzierzoniow/gbfs.json"
-      }
-    },
-    {
-      "id": "f-dott~dziwnów~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/dziwnow/gbfs.json"
       }
     },
     {
@@ -2711,6 +2767,20 @@
       }
     },
     {
+      "id": "f-dott~ellwangen~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/ellwangen/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~elmshorn~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/elmshorn/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~erfurt~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -2722,6 +2792,20 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/erlangen/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~eskilstuna~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/eskilstuna/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~espoo~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/espoo/gbfs.json"
       }
     },
     {
@@ -2774,13 +2858,6 @@
       }
     },
     {
-      "id": "f-dott~fuerteventura~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/fuerteventura-/gbfs.json"
-      }
-    },
-    {
       "id": "f-dott~gdansk~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -2809,6 +2886,13 @@
       }
     },
     {
+      "id": "f-dott~gladbeck~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/gladbeck/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~godollo~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -2820,6 +2904,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/goleniow/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~gothenburg~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/gothenburg/gbfs.json"
       }
     },
     {
@@ -2865,13 +2956,6 @@
       }
     },
     {
-      "id": "f-dott~gutersloh~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/gutersloh/gbfs.json"
-      }
-    },
-    {
       "id": "f-dott~gyor~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -2886,6 +2970,20 @@
       }
     },
     {
+      "id": "f-dott~hameenlinna~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/hameenlinna/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~hamina~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/hamina/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~hamm~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -2897,6 +2995,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/hannover/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~hatvan~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/hatvan/gbfs.json"
       }
     },
     {
@@ -2918,6 +3023,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/helsingborg/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~helsinki~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/helsinki/gbfs.json"
       }
     },
     {
@@ -2963,10 +3075,31 @@
       }
     },
     {
+      "id": "f-dott~humenne~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/humenne/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~hyvinkaa~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/hyvinkaa/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~ibiza~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/ibiza/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~imatra~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/imatra/gbfs.json"
       }
     },
     {
@@ -2991,17 +3124,24 @@
       }
     },
     {
+      "id": "f-dott~jakobstad~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/jakobstad/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~jarvenpaa~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/jarvenpaa/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~jastrzebie~zdroj~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/jastrzebie-zdroj/gbfs.json"
-      }
-    },
-    {
-      "id": "f-dott~jaworzno~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/jaworzno/gbfs.json"
       }
     },
     {
@@ -3019,6 +3159,34 @@
       }
     },
     {
+      "id": "f-dott~joensuu~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/joensuu/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~jonkoping~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/jonkoping/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~jyvaskyla~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/jyvaskyla/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~kaarina~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/kaarina/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~kaiserslautern~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3030,6 +3198,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/kalisz/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~kangasala~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/kangasala/gbfs.json"
       }
     },
     {
@@ -3054,6 +3229,13 @@
       }
     },
     {
+      "id": "f-dott~kerava~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/kerava/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~kiel~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3061,10 +3243,31 @@
       }
     },
     {
+      "id": "f-dott~kirkkonummi~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/kirkkonummi/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~klagenfurt~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/klagenfurt/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~klaukkala~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/klaukkala/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~kokkola~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/kokkola/gbfs.json"
       }
     },
     {
@@ -3103,6 +3306,13 @@
       }
     },
     {
+      "id": "f-dott~kotka~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/kotka/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~kołobrzeg~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3117,10 +3327,24 @@
       }
     },
     {
+      "id": "f-dott~kuopio~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/kuopio/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~kwidzyn~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/kwidzyn/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~lahti~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/lahti/gbfs.json"
       }
     },
     {
@@ -3131,10 +3355,17 @@
       }
     },
     {
-      "id": "f-dott~lanzarote~gbfs",
+      "id": "f-dott~lappeenranta~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/lanzarote/gbfs.json"
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/lappeenranta/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~la~manga~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/la-manga/gbfs.json"
       }
     },
     {
@@ -3145,10 +3376,24 @@
       }
     },
     {
+      "id": "f-dott~legionowo~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/legionowo/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~leipzig~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/leipzig/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~lempaala~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/lempaala/gbfs.json"
       }
     },
     {
@@ -3180,6 +3425,13 @@
       }
     },
     {
+      "id": "f-dott~lillestrøm~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/lillestrøm/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~lindau~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3191,6 +3443,20 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/linz/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~liptovsky~mikulas~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/liptovsky-mikulas/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~lorca~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/lorca/gbfs.json"
       }
     },
     {
@@ -3222,24 +3488,10 @@
       }
     },
     {
-      "id": "f-dott~madrid~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/madrid/gbfs.json"
-      }
-    },
-    {
       "id": "f-dott~mainz~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/mainz/gbfs.json"
-      }
-    },
-    {
-      "id": "f-dott~malaga~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/malaga/gbfs.json"
       }
     },
     {
@@ -3254,13 +3506,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/mannheim/gbfs.json"
-      }
-    },
-    {
-      "id": "f-dott~marseille~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/marseille/gbfs.json"
       }
     },
     {
@@ -3282,13 +3527,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/michalovce/gbfs.json"
-      }
-    },
-    {
-      "id": "f-dott~mielec~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/mielec/gbfs.json"
       }
     },
     {
@@ -3383,6 +3621,13 @@
       }
     },
     {
+      "id": "f-dott~myyrmaki~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/myyrmaki/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~mödling~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3397,13 +3642,6 @@
       }
     },
     {
-      "id": "f-dott~namur~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/namur/gbfs.json"
-      }
-    },
-    {
       "id": "f-dott~neumünster~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3415,6 +3653,27 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/neuss/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~nitra~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/nitra/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~nokia~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/nokia/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~nottingham~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/nottingham/gbfs.json"
       }
     },
     {
@@ -3436,6 +3695,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/nowy-sacz/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~nowy~targ~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/nowy-targ/gbfs.json"
       }
     },
     {
@@ -3478,6 +3744,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/ostroda/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~oława~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/oława/gbfs.json"
       }
     },
     {
@@ -3530,13 +3803,6 @@
       }
     },
     {
-      "id": "f-dott~petah~tikva~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/petah-tikva/gbfs.json"
-      }
-    },
-    {
       "id": "f-dott~pezinok~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3551,10 +3817,38 @@
       }
     },
     {
+      "id": "f-dott~pinneberg~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/pinneberg/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~police~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/police/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~poprad~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/poprad/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~porvoo~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/porvoo/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~potsdam~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/potsdam/gbfs.json"
       }
     },
     {
@@ -3593,10 +3887,10 @@
       }
     },
     {
-      "id": "f-dott~pruszów~gbfs",
+      "id": "f-dott~raisio~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/pruszkow/gbfs.json"
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/raisio/gbfs.json"
       }
     },
     {
@@ -3656,13 +3950,6 @@
       }
     },
     {
-      "id": "f-dott~riccione~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/riccione/gbfs.json"
-      }
-    },
-    {
       "id": "f-dott~riyadh~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3712,10 +3999,10 @@
       }
     },
     {
-      "id": "f-dott~saint~quentin~en~yvelines~gbfs",
+      "id": "f-dott~salo~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/saint-quentin-en-yvelines/gbfs.json"
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/salo/gbfs.json"
       }
     },
     {
@@ -3726,6 +4013,13 @@
       }
     },
     {
+      "id": "f-dott~sandefjord~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/sandefjord/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~sankt~augustin~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3733,17 +4027,10 @@
       }
     },
     {
-      "id": "f-dott~schaffhausen~gbfs",
+      "id": "f-dott~seinajoki~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/schaffhausen/gbfs.json"
-      }
-    },
-    {
-      "id": "f-dott~seville~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/seville/gbfs.json"
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/seinajoki/gbfs.json"
       }
     },
     {
@@ -3782,10 +4069,10 @@
       }
     },
     {
-      "id": "f-dott~sobieszewo~island~gbfs",
+      "id": "f-dott~skovde~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/sobieszewo-island/gbfs.json"
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/skovde/gbfs.json"
       }
     },
     {
@@ -3810,10 +4097,10 @@
       }
     },
     {
-      "id": "f-dott~stockholm~gbfs",
+      "id": "f-dott~stjørdal~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/stockholm/gbfs.json"
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/stjørdal/gbfs.json"
       }
     },
     {
@@ -3838,6 +4125,13 @@
       }
     },
     {
+      "id": "f-dott~swiecie~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/swiecie/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~szczecin~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3849,6 +4143,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/słupsk/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~tampere~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/tampere/gbfs.json"
       }
     },
     {
@@ -3890,14 +4191,7 @@
       "id": "f-dott~tenerife~sur~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/tenerife-sur-/gbfs.json"
-      }
-    },
-    {
-      "id": "f-dott~tignes~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/tignes/gbfs.json"
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/tenerife-sur/gbfs.json"
       }
     },
     {
@@ -3905,13 +4199,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/trento/gbfs.json"
-      }
-    },
-    {
-      "id": "f-dott~tricity~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/tricity/gbfs.json"
       }
     },
     {
@@ -3936,6 +4223,13 @@
       }
     },
     {
+      "id": "f-dott~trondheim~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/trondheim/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~trzebnica~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3947,6 +4241,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/turin/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~turku~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/turku/gbfs.json"
       }
     },
     {
@@ -3971,10 +4272,24 @@
       }
     },
     {
-      "id": "f-dott~val~d’isere~gbfs",
+      "id": "f-dott~vaasa~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/val-d%E2%80%99isere/gbfs.json"
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/vaasa/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~vantaa~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/vantaa/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~varberg~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/varberg/gbfs.json"
       }
     },
     {
@@ -3982,6 +4297,20 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/varese/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~vaxjo~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/vaxjo/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~velden~am~worthersee~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/velden-am-worthersee/gbfs.json"
       }
     },
     {
@@ -3996,6 +4325,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/villach/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~vranov~nad~toplou~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/vranov-nad-toplou/gbfs.json"
       }
     },
     {
@@ -4045,6 +4381,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/wrocław/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~wuppertal~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/wuppertal/gbfs.json"
       }
     },
     {
@@ -4142,7 +4485,7 @@
       "id": "f-edrive~carsharing~switzerland~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/edrivecarsharing_ch/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/edrivecarsharing_ch/gbfs"
       }
     },
     {
@@ -4195,13 +4538,6 @@
       }
     },
     {
-      "id": "f-felyx~aachen~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://nitro.openvelo.org/aachen/felyx/v2/gbfs.json"
-      }
-    },
-    {
       "id": "f-flamingo~dunedin~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -4237,6 +4573,13 @@
       }
     },
     {
+      "id": "f-flinkster~germany~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/flinkster_carsharing/gbfs"
+      }
+    },
+    {
       "id": "f-flotte~brandenburg~berlin~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -4244,10 +4587,10 @@
       }
     },
     {
-      "id": "f-fort~worth~bike~sharing~tx~gbfs",
+      "id": "f-flux~bikesharing~friedrichsdorf~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.bcycle.com/bcycle_fortworth/gbfs.json"
+        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_ev/gbfs.json"
       }
     },
     {
@@ -4265,10 +4608,24 @@
       }
     },
     {
+      "id": "f-gmünd~bewegt!~schwäbisch~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/gmuend_bewegt/gbfs"
+      }
+    },
+    {
       "id": "f-goabout~netherlands~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.goabout.com/2/gbfs.json"
+      }
+    },
+    {
+      "id": "f-gothenburg~cargo~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_zc/gbfs.json"
       }
     },
     {
@@ -4692,17 +5049,17 @@
       }
     },
     {
+      "id": "f-hopp~washington~dc~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://mds.bolt.eu/gbfs/3/23/gbfs"
+      }
+    },
+    {
       "id": "f-hopr~bishop~ranch~san~ramon~ca~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.hopr.city/api/gbfs/27/"
-      }
-    },
-    {
-      "id": "f-houston~b~cycle~tx~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.bcycle.com/bcycle_houston/gbfs.json"
       }
     },
     {
@@ -4867,7 +5224,7 @@
       }
     },
     {
-      "id": "f-kvv~nextbike~germany~gbfs",
+      "id": "f-kvv~nextbike~karlsruhe~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_fg/gbfs.json"
@@ -4884,7 +5241,7 @@
       "id": "f-lastenvelo~freiburg~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/lastenvelo_fr/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/lastenvelo_fr/gbfs"
       }
     },
     {
@@ -4919,7 +5276,7 @@
       "id": "f-levélo~marseille~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.omega.fifteen.eu/gbfs/2.2/marseille/en/gbfs.json"
+        "gbfs_auto_discovery": "https://gbfs.omega.fifteen.eu/gbfs/2.2/marseille/en/gbfs.json"
       }
     },
     {
@@ -4933,7 +5290,7 @@
       "id": "f-le~vélo~par~tbm~bordeaux~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://bdx.mecatran.com/utw/ws/gbfs/bordeaux/v3/gbfs.json"
+        "gbfs_auto_discovery": "https://bdx.mecatran.com/utw/ws/gbfs/bordeaux/v3/gbfs.json?apiKey=opendata-bordeaux-metropole-flux-gtfs-rt"
       }
     },
     {
@@ -4954,7 +5311,7 @@
       "id": "f-liemobil~liechtenstein~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/liemobil_liechtenstein/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/liemobil_liechtenstein/gbfs"
       }
     },
     {
@@ -4982,7 +5339,7 @@
       "id": "f-lime~basel~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/lime_basel/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/lime_basel/gbfs"
       }
     },
     {
@@ -5171,7 +5528,7 @@
       "id": "f-lime~uster~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/lime_uster/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/lime_uster/gbfs"
       }
     },
     {
@@ -5189,6 +5546,20 @@
       }
     },
     {
+      "id": "f-lime~wetzikon~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.prod.sharedmobility.ch/v2/gbfs/lime_wetzikon/gbfs"
+      }
+    },
+    {
+      "id": "f-lime~winterthur~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.prod.sharedmobility.ch/v2/gbfs/lime_winterthur/gbfs"
+      }
+    },
+    {
       "id": "f-lime~zug~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -5199,7 +5570,7 @@
       "id": "f-lime~zurich~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/lime_zurich/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/lime_zurich/gbfs"
       }
     },
     {
@@ -5490,7 +5861,7 @@
       }
     },
     {
-      "id": "f-metropolradruhr~germany~gbfs",
+      "id": "f-metropolradruhr~germany~ruhr~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_mr/gbfs.json"
@@ -5546,17 +5917,24 @@
       }
     },
     {
-      "id": "f-mobic~cologne~gbfs",
+      "id": "f-mobic~rhein~erft~kreis~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_re/gbfs.json"
       }
     },
     {
+      "id": "f-mobility~switzerland~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.prod.sharedmobility.ch/v2/gbfs/mobility/gbfs"
+      }
+    },
+    {
       "id": "f-mobi~bike~share~vancouver~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://vancouver-gbfs.smoove.pro/gbfs/2/gbfs.json"
+        "gbfs_auto_discovery": "https://gbfs.kappa.fifteen.eu/gbfs/2.2/mobi/en/gbfs.json"
       }
     },
     {
@@ -5588,6 +5966,13 @@
       }
     },
     {
+      "id": "f-mooinz~chur~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_ms/gbfs.json"
+      }
+    },
+    {
       "id": "f-movemix~bike~halle~de~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -5595,7 +5980,7 @@
       }
     },
     {
-      "id": "f-mv~rad~germany~gbfs",
+      "id": "f-mv~rad~mecklenburg~vorpommern~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_um/gbfs.json"
@@ -5623,10 +6008,10 @@
       }
     },
     {
-      "id": "f-navan~bikes~(ireland)~gbfs",
+      "id": "f-naturenergie~sharing~south~baden~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_ll/gbfs.json"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/naturenergie_sharing/gbfs"
       }
     },
     {
@@ -5739,6 +6124,20 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_td/gbfs.json"
+      }
+    },
+    {
+      "id": "f-nextbike~be~vlaamse~rand~brussels~region~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_hf/gbfs.json"
+      }
+    },
+    {
+      "id": "f-nextbike~bicilog~logroño~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_ej/gbfs.json"
       }
     },
     {
@@ -5910,6 +6309,13 @@
       }
     },
     {
+      "id": "f-nextbike~kolín~kolin~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_ni/gbfs.json"
+      }
+    },
+    {
       "id": "f-nextbike~konya~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -6050,13 +6456,6 @@
       }
     },
     {
-      "id": "f-nextbike~prostejov~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_cz/gbfs.json"
-      }
-    },
-    {
       "id": "f-nextbike~písek~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -6085,7 +6484,7 @@
       }
     },
     {
-      "id": "f-nextbike~rüsselsheim~am~main~germany~gbfs",
+      "id": "f-nextbike~rüsselsheim~am~main~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_do/gbfs.json"
@@ -6225,6 +6624,13 @@
       }
     },
     {
+      "id": "f-oberschwabenmobil~carsharing~halle~(saale)~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/oberschwabenmobil/gbfs"
+      }
+    },
+    {
       "id": "f-ogalo~cyclette~saumur~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -6253,10 +6659,17 @@
       }
     },
     {
+      "id": "f-optymo~belfort~auto~libre~service~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://data.optymo.fr/als/gbfs.json"
+      }
+    },
+    {
       "id": "f-optymo~belfort~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://belfort-gbfs.klervi.net/gbfs/gbfs.json"
+        "gbfs_auto_discovery": "https://data.optymo.fr/vls/gbfs.json"
       }
     },
     {
@@ -6326,21 +6739,21 @@
       "id": "f-pickebike~aubonne~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/pickebike_aubonne/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/pickebike_aubonne/gbfs"
       }
     },
     {
       "id": "f-pickebike~basel~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/pickebike_basel/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/pickebike_basel/gbfs"
       }
     },
     {
       "id": "f-pickebike~fribourg~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/pickebike_fribourg/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/pickebike_fribourg/gbfs"
       }
     },
     {
@@ -6453,13 +6866,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.getapony.com/v1/lorient/en/gbfs.json"
-      }
-    },
-    {
-      "id": "f-pony~namur~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.getapony.com/v1/namur/en/gbfs.json"
       }
     },
     {
@@ -6599,7 +7005,7 @@
       "id": "f-regioradstuttgart~stuttgart~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/regiorad_stuttgart/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/regiorad_stuttgart/gbfs"
       }
     },
     {
@@ -6694,7 +7100,7 @@
       }
     },
     {
-      "id": "f-rsvg~bike~bonn~gbfs",
+      "id": "f-rsvg~bike~rhein~sieg~kreis~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_rb/gbfs.json"
@@ -6715,7 +7121,7 @@
       }
     },
     {
-      "id": "f-rvk~bonn~gbfs",
+      "id": "f-rvk~voreifel~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_dr/gbfs.json"
@@ -6729,6 +7135,13 @@
       }
     },
     {
+      "id": "f-ryde~fredrikstad~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.entur.io/mobility/v2/gbfs/v3/rydefredrikstad/gbfs"
+      }
+    },
+    {
       "id": "f-ryde~porsgrunn~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -6736,10 +7149,10 @@
       }
     },
     {
-      "id": "f-ryde~ryde_fredrikstad~sarpsborg~fredrikstad~gbfs",
+      "id": "f-ryde~sarpsborg~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.entur.io/mobility/v2/gbfs/v3/rydefredrikstadsarpsborg/gbfs"
+        "gbfs_auto_discovery": "https://api.entur.io/mobility/v2/gbfs/v3/rydesarpsborg/gbfs"
       }
     },
     {
@@ -7145,14 +7558,21 @@
       "id": "f-stadtmobil~karlsruhe~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/stadtmobil_karlsruhe/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/stadtmobil_karlsruhe/gbfs"
+      }
+    },
+    {
+      "id": "f-stadtmobil~rhein~neckar~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/stadtmobil_rhein-neckar/gbfs"
       }
     },
     {
       "id": "f-stadtmobil~stuttgart~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/stadtmobil_stuttgart/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/stadtmobil_stuttgart/gbfs"
       }
     },
     {
@@ -7166,14 +7586,14 @@
       "id": "f-stadtradhamburg~hamburg~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://apis.deutschebahn.com/db-api-marketplace/apis/shared-mobility-gbfs/2-2/de/StadtRadHamburg/gbfs"
+        "gbfs_auto_discovery": "https://apis.deutschebahn.com/db-api-marketplace/apis/shared-mobility-gbfs/v2/de/StadtRadHamburg/gbfs"
       }
     },
     {
       "id": "f-stadtradlueneburg~lübeburg~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://apis.deutschebahn.com/db-api-marketplace/apis/shared-mobility-gbfs/2-2/de/StadtRADLueneburg/gbfs"
+        "gbfs_auto_discovery": "https://apis.deutschebahn.com/db-api-marketplace/apis/shared-mobility-gbfs/v2/de/StadtRADLueneburg/gbfs"
       }
     },
     {
@@ -7194,7 +7614,7 @@
       "id": "f-stadtwerk~tauberfranken~germany~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/stadtwerk_tauberfranken/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/stadtwerk_tauberfranken/gbfs"
       }
     },
     {
@@ -7202,13 +7622,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_zg/gbfs.json"
-      }
-    },
-    {
-      "id": "f-surf~oslo~no~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://api.app.surf/gbfs/en/gbfs.json"
       }
     },
     {
@@ -7240,52 +7653,31 @@
       }
     },
     {
+      "id": "f-teilauto~biberach~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/teilauto_biberach/gbfs"
+      }
+    },
+    {
+      "id": "f-teilauto~neckar~alb~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/teilauto_neckar-alb/gbfs"
+      }
+    },
+    {
+      "id": "f-teilauto~schwäbisch~hall~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/teilauto_schwaebisch_hall/gbfs"
+      }
+    },
+    {
       "id": "f-tempovelo~agen~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://api.gbfs.v3.0.ecovelo.mobi/tempovelo/gbfs.json"
-      }
-    },
-    {
-      "id": "f-tier~aachen~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://nitro.openvelo.org/aachen/tier/v2/gbfs.json"
-      }
-    },
-    {
-      "id": "f-tier~asker~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://api.entur.io/mobility/v2/gbfs/v3/tierasker/gbfs"
-      }
-    },
-    {
-      "id": "f-tier~baerum~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://api.entur.io/mobility/v2/gbfs/v3/tierbaerum/gbfs"
-      }
-    },
-    {
-      "id": "f-tier~basel~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/tier_basel/gbfs"
-      }
-    },
-    {
-      "id": "f-tier~bern~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/tier_bern/gbfs"
-      }
-    },
-    {
-      "id": "f-tier~lillestrom~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://api.entur.io/mobility/v2/gbfs/v3/tierlillestrom/gbfs"
       }
     },
     {
@@ -7296,31 +7688,10 @@
       }
     },
     {
-      "id": "f-tier~stgallen~gbfs",
+      "id": "f-ti~vélo~landerneau~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/tier_stgallen/gbfs"
-      }
-    },
-    {
-      "id": "f-tier~trondheim~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://api.entur.io/mobility/v2/gbfs/v3/tiertrondheim/gbfs"
-      }
-    },
-    {
-      "id": "f-tier~winterthur~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/tier_winterthur/gbfs"
-      }
-    },
-    {
-      "id": "f-tier~zurich~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/tier_zurich/gbfs"
+        "gbfs_auto_discovery": "https://gbfs.partners.fifteen.eu/gbfs/2.2/landerneau/en/gbfs.json"
       }
     },
     {
@@ -7338,6 +7709,13 @@
       }
     },
     {
+      "id": "f-torrentbici~torrent~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_en/gbfs.json"
+      }
+    },
+    {
       "id": "f-trondheim~bysykkel~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -7352,6 +7730,13 @@
       }
     },
     {
+      "id": "f-tubabike~(barcelos)~barcelos~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_bx/gbfs.json"
+      }
+    },
+    {
       "id": "f-tuebici~santander~es~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -7363,6 +7748,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://tucson.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+      }
+    },
+    {
+      "id": "f-twisto~vélolib~caen~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/gbfs.json"
       }
     },
     {
@@ -7404,7 +7796,7 @@
       "id": "f-v'lille~lille~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://transport.data.gouv.fr/gbfs/vlille/gbfs.json"
+        "gbfs_auto_discovery": "https://media.ilevia.fr/opendata/gbfs.json"
       }
     },
     {
@@ -7474,7 +7866,7 @@
       "id": "f-velospot~switzerland~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/velospot_ch/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/velospot_ch/gbfs"
       }
     },
     {
@@ -7489,6 +7881,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://santana.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+      }
+    },
+    {
+      "id": "f-veo~washington~dc~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://cluster-prod.veoride.com/api/shares/name/DC_City/gbfs"
       }
     },
     {
@@ -7527,6 +7926,20 @@
       }
     },
     {
+      "id": "f-vilvolt~épinal~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.partners.fifteen.eu/gbfs/epinal/gbfs.json"
+      }
+    },
+    {
+      "id": "f-vivélo~vichy~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.partners.fifteen.eu/gbfs/vichy/gbfs.json"
+      }
+    },
+    {
       "id": "f-voi~antwerp~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -7548,10 +7961,24 @@
       }
     },
     {
+      "id": "f-voi~germany~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/voi_de/gbfs"
+      }
+    },
+    {
       "id": "f-voi~kristiansand~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://api.entur.io/mobility/v2/gbfs/v3/voikristiansand/gbfs"
+      }
+    },
+    {
+      "id": "f-voi~le~havre~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.voiapp.io/gbfs/fr/6bb6b5dc-1cda-4da7-9216-d3023a0bc54a/v2/336/gbfs.json"
       }
     },
     {
@@ -7586,7 +8013,7 @@
       "id": "f-voi~switzerland~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/voi_ch/gbfs"
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/voi_ch/gbfs"
       }
     },
     {
@@ -7597,7 +8024,7 @@
       }
     },
     {
-      "id": "f-vrnnextbike~germany~gbfs",
+      "id": "f-vrnnextbike~rhine~neckar~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_vn/gbfs.json"
@@ -7642,7 +8069,7 @@
       "id": "f-vélo'baie~saint~brieuc~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gateway.prod.partners-fs37hd8.zoov.site/gbfs/2.2/saintbrieuc/en/gbfs.json"
+        "gbfs_auto_discovery": "https://gbfs.partners.fifteen.eu/gbfs/2.2/saintbrieuc/en/gbfs.json"
       }
     },
     {
@@ -7677,28 +8104,21 @@
       "id": "f-vélocité~mulhouse~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.cyclocity.fr/contracts/mulhouse/gbfs/gbfs.json"
-      }
-    },
-    {
-      "id": "f-vélocéo~vannes~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://vannes-gbfs.klervi.net/gbfs/gbfs.json"
+        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_af/gbfs.json"
       }
     },
     {
       "id": "f-vélomagg'~montpellier~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://montpellier-fr-smoove.klervi.net/gbfs/gbfs.json"
+        "gbfs_auto_discovery": "https://montpellier-fr.fifteen.site/gbfs/gbfs.json"
       }
     },
     {
       "id": "f-vélopop~avignon~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.prod.partners-fs37hd8.zoov.eu/gbfs/2.2/avignon/gbfs.json"
+        "gbfs_auto_discovery": "https://gbfs.partners.fifteen.eu/gbfs/avignon/gbfs.json"
       }
     },
     {
@@ -7712,7 +8132,7 @@
       "id": "f-vélozef~brest~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.prod.partners-fs37hd8.zoov.eu/gbfs/2.2/brest/en/gbfs.json"
+        "gbfs_auto_discovery": "https://gbfs.partners.fifteen.eu/gbfs/2.2/brest/en/gbfs.json"
       }
     },
     {
@@ -7744,7 +8164,7 @@
       }
     },
     {
-      "id": "f-westbike~erkelenz~gbfs",
+      "id": "f-westbike~heinsberg~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_gh/gbfs.json"
@@ -7825,6 +8245,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_bz/gbfs.json"
+      }
+    },
+    {
+      "id": "f-zeo~carsharing~bruchsal~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/zeo_bruchsal/gbfs"
       }
     },
     {
